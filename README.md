@@ -286,9 +286,9 @@ screenshots/rag.png
 
 # 👩‍💻 Author
 
-**Jaya Singh**
+**Jaya **
 
-AI Backend Developer
+AI Software Developer
 
 **Skills**
 
